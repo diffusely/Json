@@ -1,30 +1,36 @@
-# Json
+# 📦 JSON Parser in C++
 
-📦 JSON Parser in C++
+A lightweight JSON parser and validator written in modern C++. This project allows you to parse, validate, and pretty-print JSON files using a simple object-oriented API.
 
-This project is a basic JSON parser and validator written in C++. It includes:
+---
 
--Json: the main class representing JSON values (objects, arrays, strings, etc.)
+## 📁 Project Structure
 
--JsonValid: validates whether a file contains valid JSON syntax
+- **`Json`**: Core class that represents JSON values — object, array, string, number, boolean, and null.
+- **`JsonValid`**: Validates JSON file syntax before parsing.
+- **`JsonSrl`**: Responsible for reading and parsing JSON files into usable `Json` objects.
 
--JsonSrl: handles reading and parsing JSON files into Json objects
+---
 
 
- It supports basic JSON types such as:
+## 🧱 Supported JSON Types
 
--Strings
--Numbers (integers and floats)
--Booleans (true, false)
--Null
--Arrays
--Objects
+| Type     | Example                         |
+|----------|----------------------------------|
+| String   | `"hello"`                       |
+| Number   | `123`, `3.14`                   |
+| Boolean  | `true`, `false`                 |
+| Null     | `null`                          |
+| Array    | `[1, 2, 3]`                     |
+| Object   | `{ "key": "value" }`            |
 
-⚙️ How to Build
+---
 
+## ⚙️ Build Instructions
+
+```bash
 make
 
-🧪 Example Usage
 
 #include "json.hpp"
 #include "json_valid.hpp"
