@@ -1,24 +1,32 @@
-NAME = json
+NAME	= json
 
-SRC = main.cpp json.cpp json_valid.cpp
-
-OBJ = $(SRC:%.cpp=%.o)
-
-STD = -std=c++17
-GPP = g++ $(STD)
-RM	= rm -rf
-
-all		:	$(NAME)
-
-%.o		:	%.cpp
-			$(GPP) -c $< -o $@
+INCDIR	= includes/
+SRCDIR	= src/
+SRC		= $(SRCDIR)json_valid.cpp $(SRCDIR)json.cpp $(SRCDIR)json_srl.cpp
+MSRC	= main.cpp
 
 
-$(NAME)	:	$(OBJ)
-			$(GPP) $(OBJ) -o $(NAME)
+OBJ 	= $(SRC:$(SRCDIR)%.cpp=$(SRCDIR)%.o)
+MOBJ	= $(MSRC:%.cpp=%.o)
+
+IFLAG 	= -I$(INCDIR)
+STD		= -std=c++17
+GPP		= g++ $(STD) $(IFLAG)
+RM		= rm -rf
+
+all:			$(NAME)
+
+%.o:			$(SRCDIR)%.cpp
+				$(GPP) -c $< -o $@
+
+%.o: 			%.cpp
+				$(GPP) -c $< -o $@
+
+$(NAME):		$(OBJ) $(MOBJ)
+				$(GPP) $(OBJ) $(MOBJ) -o $(NAME)
 
 clean:
-		$(RM) $(OBJ)
+		$(RM) $(OBJ) $(MOBJ)
 
 fclean: clean
 		$(RM) $(NAME)

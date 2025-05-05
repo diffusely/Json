@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "681765dacc3eedbfd2f91f47",
+    "index": 0,
+    "guid": "c1c57fcf-d04d-4ac2-8777-64830e13d580",
+    "isActive": true,
+    "balance": "$2,109.14",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "blue",
+    "name": "Stout Chaney",
+    "gender": "male",
+    "company": "MANUFACT",
+    "email": "stoutchaney@manufact.com",
+    "phone": "+1 (995) 570-3421",
+    "address": "730 Ditmas Avenue, Alafaya, Connecticut, 3280",
+    "about": "Reprehenderit cupidatat ex proident qui ad in sunt velit est qui amet eiusmod ex. Do irure cillum eiusmod sunt minim consequat ullamco ad anim aliquip eu eu deserunt. Fugiat enim Lorem amet laborum.\r\n",
+    "registered": "2024-04-08T12:16:21 -04:00",
+    "latitude": 67.334289,
+    "longitude": -103.309641,
+    "tags": [
+      "in",
+      "deserunt",
+      "qui",
+      "sunt",
+      "eu",
+      "occaecat",
+      "deserunt"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Navarro Koch"
+      },
+      {
+        "id": 1,
+        "name": "Calhoun Ford"
+      },
+      {
+        "id": 2,
+        "name": "Rasmussen Michael"
+      }
+    ],
+    "greeting": "Hello, Stout Chaney! You have 2 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "681765da8568cc622140fba7",
+    "index": 1,
+    "guid": "b16ba1a0-c2fc-4481-95a8-9d740dde1641",
+    "isActive": true,
+    "balance": "$1,618.27",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "blue",
+    "name": "Socorro Pratt",
+    "gender": "female",
+    "company": "DIGIGENE",
+    "email": "socorropratt@digigene.com",
+    "phone": "+1 (978) 526-3387",
+    "address": "625 Sumpter Street, Gulf, Wyoming, 4904",
+    "about": "Reprehenderit dolor excepteur pariatur commodo reprehenderit amet duis ullamco voluptate pariatur mollit laborum. Irure do eu consequat ad. Ea eiusmod minim magna excepteur.\r\n",
+    "registered": "2019-01-13T04:00:35 -04:00",
+    "latitude": 49.808406,
+    "longitude": -157.031584,
+    "tags": [
+      "excepteur",
+      "non",
+      "ullamco",
+      "est",
+      "aute",
+      "elit",
+      "occaecat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jodie Chavez"
+      },
+      {
+        "id": 1,
+        "name": "Donna Rocha"
+      },
+      {
+        "id": 2,
+        "name": "Ingrid Marquez"
+      }
+    ],
+    "greeting": "Hello, Socorro Pratt! You have 1 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "681765dabe0d7d67b54fa11a",
+    "index": 2,
+    "guid": "30dbd40a-ff04-4b24-8e65-a39436b63817",
+    "isActive": false,
+    "balance": "$1,948.25",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "blue",
+    "name": "Blanchard Schmidt",
+    "gender": "male",
+    "company": "PROTODYNE",
+    "email": "blanchardschmidt@protodyne.com",
+    "phone": "+1 (897) 497-2943",
+    "address": "686 Gain Court, Barstow, Maine, 5037",
+    "about": "Fugiat non veniam duis voluptate excepteur nisi ad commodo. Voluptate culpa mollit dolor magna adipisicing eiusmod. Et et proident tempor exercitation dolor mollit sint commodo esse laboris Lorem nulla non. Reprehenderit officia aliqua laborum quis. Mollit excepteur reprehenderit nostrud eu ut id proident minim sunt enim magna.\r\n",
+    "registered": "2023-08-28T09:05:12 -04:00",
+    "latitude": 40.351329,
+    "longitude": -66.68139,
+    "tags": [
+      "reprehenderit",
+      "irure",
+      "deserunt",
+      "est",
+      "qui",
+      "proident",
+      "Lorem"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Reyna Wynn"
+      },
+      {
+        "id": 1,
+        "name": "Barton Riggs"
+      },
+      {
+        "id": 2,
+        "name": "Reyes Obrien"
+      }
+    ],
+    "greeting": "Hello, Blanchard Schmidt! You have 6 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "681765dac4bf50a6dc48d71c",
+    "index": 3,
+    "guid": "fb42a1d9-f99d-42d5-9fed-333e072452a8",
+    "isActive": false,
+    "balance": "$1,050.14",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "green",
+    "name": "Rene Mckee",
+    "gender": "female",
+    "company": "ZOID",
+    "email": "renemckee@zoid.com",
+    "phone": "+1 (881) 473-3815",
+    "address": "360 India Street, Tolu, Nebraska, 594",
+    "about": "Do sint et esse duis sunt ipsum ea ad est nostrud commodo voluptate. Nisi deserunt nisi incididunt fugiat duis eu aliqua. Reprehenderit incididunt irure ullamco eiusmod nulla id ipsum consequat Lorem aliquip commodo. Ad dolore est consequat amet non Lorem magna consectetur laboris ullamco nulla laboris et. Aliqua laborum culpa consequat excepteur est incididunt voluptate duis do aute elit voluptate. Nostrud magna pariatur culpa deserunt Lorem officia pariatur labore commodo eiusmod dolore mollit in cupidatat.\r\n",
+    "registered": "2015-04-23T06:39:06 -04:00",
+    "latitude": -49.069784,
+    "longitude": -25.655678,
+    "tags": [
+      "fugiat",
+      "nisi",
+      "fugiat",
+      "consequat",
+      "et",
+      "minim",
+      "amet"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cathleen Lopez"
+      },
+      {
+        "id": 1,
+        "name": "Hammond Bates"
+      },
+      {
+        "id": 2,
+        "name": "Contreras Good"
+      }
+    ],
+    "greeting": "Hello, Rene Mckee! You have 6 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "681765da6cae0ebfb9220029",
+    "index": 4,
+    "guid": "37b161cd-ba46-4195-9683-8dbfe4f9189f",
+    "isActive": true,
+    "balance": "$3,914.31",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "blue",
+    "name": "Grace Dunn",
+    "gender": "female",
+    "company": "VINCH",
+    "email": "gracedunn@vinch.com",
+    "phone": "+1 (857) 484-3026",
+    "address": "894 Evergreen Avenue, Boyd, Federated States Of Micronesia, 8450",
+    "about": "Nisi commodo cillum anim sint laborum anim officia Lorem irure consectetur. Pariatur non proident labore mollit aliquip incididunt do consectetur irure dolore quis mollit officia. Laborum sit laborum ex mollit. Commodo exercitation minim aliquip eiusmod in dolor anim labore velit. Et et eu cupidatat in enim officia culpa proident adipisicing.\r\n",
+    "registered": "2014-04-30T09:57:19 -04:00",
+    "latitude": 29.259559,
+    "longitude": -163.696837,
+    "tags": [
+      "deserunt",
+      "tempor",
+      "ea",
+      "quis",
+      "officia",
+      "est",
+      "deserunt"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sophie Evans"
+      },
+      {
+        "id": 1,
+        "name": "Colon Miranda"
+      },
+      {
+        "id": 2,
+        "name": "Rose Hatfield"
+      }
+    ],
+    "greeting": "Hello, Grace Dunn! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "681765da44bbaf8db9cdfea2",
+    "index": 5,
+    "guid": "1a10ccac-d83f-45d8-ab60-6e1d9f01c0e1",
+    "isActive": false,
+    "balance": "$3,000.91",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "blue",
+    "name": "Liza Mccarty",
+    "gender": "female",
+    "company": "OCTOCORE",
+    "email": "lizamccarty@octocore.com",
+    "phone": "+1 (989) 460-2539",
+    "address": "376 Grimes Road, Sunnyside, Montana, 1459",
+    "about": "Laborum consectetur eiusmod labore nostrud aute adipisicing nostrud qui do anim velit laboris Lorem. Quis cillum occaecat voluptate enim elit sit ex ullamco culpa reprehenderit laboris elit. Anim consectetur do laboris aliquip quis amet fugiat labore sunt. Pariatur fugiat exercitation voluptate nostrud officia in aliquip consequat eu elit ad ut adipisicing deserunt. Amet veniam qui consectetur anim officia consectetur deserunt mollit. Laboris consequat cupidatat pariatur exercitation non sint incididunt consectetur aliqua consequat.\r\n",
+    "registered": "2024-05-28T05:52:54 -04:00",
+    "latitude": -19.1924,
+    "longitude": 101.580642,
+    "tags": [
+      "laboris",
+      "esse",
+      "ea",
+      "consectetur",
+      "magna",
+      "do",
+      "Lorem"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Tania Farrell"
+      },
+      {
+        "id": 1,
+        "name": "Kara Wise"
+      },
+      {
+        "id": 2,
+        "name": "Sawyer Flowers"
+      }
+    ],
+    "greeting": "Hello, Liza Mccarty! You have 10 unread messages.",
+    "favoriteFruit": "banana"
+  } 
+]
